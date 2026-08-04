@@ -1,88 +1,119 @@
-# 📜 Certifications
+<div align="center">
 
-This folder contains the professional certifications, internships, trainings, and hackathon participation certificates I have earned while building my expertise in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development.
+# 📜 Professional Certifications
 
-These certifications reflect my commitment to continuous learning, practical implementation, and staying updated with emerging technologies.
+*A curated collection of my industry certifications, internships, and professional learning achievements in Artificial Intelligence, Machine Learning, Cybersecurity, and Enterprise Technologies.*
 
----
+![GitHub](https://img.shields.io/badge/Certificates-10-success?style=for-the-badge)
+![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Lifelong-Learner-orange?style=for-the-badge)
 
-## 🎓 Certifications & Achievements
-
-| Certificate | Organization | Domain |
-|-------------|--------------|--------|
-| Artificial Intelligence Fundamentals | IBM SkillsBuild | Artificial Intelligence |
-| AI Fundamentals with IBM SkillsBuild | Cisco Networking Academy × IBM SkillsBuild | AI Foundations |
-| Apply AI: Analyze Customer Reviews | Cisco Networking Academy | Generative AI / NLP |
-| Apply AI: Update Your Resume | Cisco Networking Academy | AI Applications |
-| Introduction to Cybersecurity | Cisco Networking Academy | Cybersecurity |
-| Yuva AI for All | NASSCOM FutureSkills Prime & INDIAai | Artificial Intelligence |
-| Virtual Internship Program | ServiceNow University × SmartBridge × AICTE | Agentic AI & ServiceNow |
-| Artificial Intelligence Internship | Internship Studio | Artificial Intelligence |
-| Artificial Intelligence Training | iStudio | AI Training |
-| Cognizant Technoverse Hackathon 2026 | Cognizant | Hackathon Participation |
+</div>
 
 ---
 
-## 🛠 Skills Gained
+## 🎯 About
 
-- Artificial Intelligence Fundamentals
-- Machine Learning Concepts
-- Natural Language Processing (NLP)
-- AI-powered Data Analysis
-- Prompt Engineering
-- AI Productivity Tools
-- Cybersecurity Fundamentals
-- ServiceNow Administration
-- Agentic AI
-- Workflow Automation
-- Report Generation
-- Software Development Practices
-- Team Collaboration
-- Problem Solving
+This repository showcases my professional certifications earned through globally recognized organizations and industry training platforms. These credentials represent my continuous pursuit of technical excellence and practical expertise in modern software engineering and Artificial Intelligence.
 
 ---
 
-## 📂 Certificate Sources
+# 📂 Certification Portfolio
 
-- IBM SkillsBuild
-- Cisco Networking Academy
-- NASSCOM FutureSkills Prime
-- INDIAai
-- ServiceNow University
-- SmartBridge
-- AICTE
-- Internship Studio
-- iStudio
-- Cognizant
+## 🤖 IBM SkillsBuild
+
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **Artificial Intelligence Fundamentals** | [View Certificate](./IBM%20AI/IBM%20AI.pdf) |
 
 ---
 
-## 📌 Highlights
+## 🌐 Cisco Networking Academy
 
-- ✅ IBM SkillsBuild Certified in Artificial Intelligence Fundamentals
-- ✅ Multiple Cisco Networking Academy AI Certifications
-- ✅ ServiceNow Virtual Internship Program Completion
-- ✅ Artificial Intelligence Internship & Training
-- ✅ Cybersecurity Fundamentals Certification
-- ✅ Participant in Cognizant Technoverse Hackathon 2026
-- ✅ NASSCOM FutureSkills "Yuva AI for All" Certification
-
----
-
-## 🚀 Why This Repository?
-
-These certificates demonstrate my continuous learning journey and complement my academic projects in:
-
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Computer Vision
-- NLP
-- Cybersecurity
-- Full Stack Development
-
-As an aspiring **AI & Machine Learning Engineer**, I believe continuous learning is essential for building innovative and impactful solutions.
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **AI Fundamentals with IBM SkillsBuild** | [View Certificate](./Cisco/ai%20fundamentals.pdf) |
+| 📄 **Apply AI: Update Your Resume** | [View Certificate](./Cisco/Ai_Application.pdf) |
+| 📄 **Apply AI: Analyze Customer Reviews** | [View Certificate](./Cisco/Customer_reviews_AI.pdf) |
+| 📄 **Introduction to Cybersecurity** | [View Certificate](./Cisco/CISCO%20CYBER%20SECURITY.pdf) |
 
 ---
 
-> *"Learning never exhausts the mind—it expands the possibilities."*
+## 🇮🇳 INDIAai × NASSCOM FutureSkills Prime
+
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **Yuva AI for All** | [View Certificate](./IndiaAI/Akhilesh_reddy_402293.pdf) |
+
+---
+
+## ☁️ ServiceNow
+
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **Virtual Internship Program** | [View Certificate](./ServiceNow/ServiceNow_certificate.pdf) |
+
+---
+
+## 🏢 iStudio
+
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **Artificial Intelligence Internship** | [View Certificate](./iStudio/istudio_internship.pdf) |
+| 📄 **Artificial Intelligence Training** | [View Certificate](./iStudio/istudio_Training.pdf) |
+
+---
+
+## 🏆 Cognizant
+
+| Certificate | Credential |
+|-------------|------------|
+| 📄 **Technoverse Hackathon 2026 – Certificate of Participation** | [View Certificate](./cognizant/cognizant_participation.pdf) |
+
+---
+
+# 📊 Repository Statistics
+
+| Category | Count |
+|:---------|------:|
+| 🤖 Artificial Intelligence | 8 |
+| 🔐 Cybersecurity | 1 |
+| 🏢 Enterprise Technologies | 1 |
+| 🏆 Hackathons | 1 |
+
+**📜 Total Credentials:** **10**
+
+---
+
+# 💡 Core Competencies
+
+```text
+Artificial Intelligence
+Machine Learning
+Generative AI
+Natural Language Processing
+Prompt Engineering
+Cybersecurity Fundamentals
+Enterprise Workflow Automation
+ServiceNow Platform
+Professional Development
+Problem Solving
+```
+
+---
+
+# 🚀 Learning Philosophy
+
+> *Technology evolves every day, and so should the engineer building it.*
+
+I believe continuous learning is essential for creating innovative, scalable, and impactful AI-driven solutions. Every certification in this repository represents a milestone in my journey toward becoming an AI & Machine Learning Engineer.
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting!
+
+If you found this repository useful, feel free to ⭐ star it.
+
+</div>
